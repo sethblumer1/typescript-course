@@ -1,0 +1,7 @@
+-Source: https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b&index=3
+-tsconfig.json --> change rootDir to ts file and outDir to js file
+-If you delete TS file, JS file will still exist
+-Config file: add "include" keyword with array to only compile ts files in src directory
+-Valid JS is valid TS, but compiler won't like it
+-noEmitOnError flag
+    -Set it to true to NOT compile if there are any TS errors

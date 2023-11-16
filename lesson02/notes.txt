@@ -1,0 +1,6 @@
+-Strongly typed languages demand specification of types 
+-Loosely / weakly typed languages do not require type specification
+-Statically typed language
+    -Types are checked at compile time
+    -For dynamically typed language, types are checked at run time
+-Implicit: don't state type; Explicit: state type

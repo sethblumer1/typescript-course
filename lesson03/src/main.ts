@@ -1,4 +1,4 @@
-let stringArr = ['one', 'hey', 'Dave']
+let stringArr: string[] = ['one', 'hey', 'Dave']
 
 let guitars = ['Strat', 'Les Paul', 5150]
 

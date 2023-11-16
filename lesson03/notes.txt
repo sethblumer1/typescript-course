@@ -1,0 +1,10 @@
+-Tuples: types are fixed and has specific length
+-Types: specify types for each key-val pair in object
+-Can't add property live to types (person.age if age wasn't defined)
+-type Person = {
+    name: string,
+    weight: number,
+    middleName?: string
+}
+-Interface v. Type: Bascially the same
+-Enum: 
